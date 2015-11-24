@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-artifact-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-aether-provider-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-compat-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-embedder-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-model-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-model-builder-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-plugin-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-repository-metadata-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-settings-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/maven3/lib/maven-settings-builder-3.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jnative.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/asiainfo"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
